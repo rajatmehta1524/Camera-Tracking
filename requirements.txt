@@ -1,0 +1,9 @@
+argparse
+ipython >= 6.0, <7.0
+PyQt5<5.15.0
+matplotlib
+numpy
+numpy-quaternion
+opencv-python
+tqdm
+yapf
